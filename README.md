@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Kaio Henrique
 
-<!--
-**neguinhodotchai/neguinhodotchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+## Você pode entrar em contato comigo 📫
+00001084004574sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@neguinhodotchai
+
+
+
+![cr7-si](https://github.com/neguinhodotchai/neguinhodotchai/assets/172449842/0f15f160-9ff8-42f5-9a2c-18e2be6e3b79)
